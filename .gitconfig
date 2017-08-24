@@ -1,0 +1,16 @@
+[alias]
+  st = status
+  co = checkout
+  go = checkout
+  ci = commit
+  br = branch
+
+  wat = log --graph --decorate --oneline -15
+  follow = log --follow -p
+
+[user]
+  email = alex.shook@salido.com
+  name = Alex Shook
+[core]
+  editor = vim
+  ignorecase = false
