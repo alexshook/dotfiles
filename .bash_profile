@@ -248,7 +248,7 @@ fi
 # ================
 # Application Aliases
 # ================
-alias s='Open -a "Sublime Text 2"'
+alias s='Open -a "Sublime Text"'
 alias a='Open -a "Atom"'
 alias slack='Open -a "Slack"'
 alias chrome='Open -a "Google Chrome"'
